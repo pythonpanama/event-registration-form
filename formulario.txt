@@ -1,0 +1,22 @@
+Formulario de Inscripción para Eventos
+
+1. Nombre Completo:
+2. Correo Electrónico:
+3. Teléfono de Contacto:
+4. Dirección:
+5. Perfil:
+   a) Estudiante
+   b) Profesor
+   c) Profesional
+   d) Otro (especificar):
+
+6. Institución o Empresa:
+7. Cargo:
+8. ¿Cómo te enteraste del evento?
+   a) Redes Sociales
+   b) Correo Electrónico
+   c) Amigos/Familiares
+   d) Otros (especificar):
+
+9. ¿Requieres algún tipo de asistencia especial durante el evento? (Sí/No, especificar si es necesario):
+10. Comentarios o Preguntas Adicionales:
